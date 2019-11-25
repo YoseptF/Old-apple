@@ -1,4 +1,4 @@
-.hero{
+.hero {
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -6,11 +6,12 @@
     background: url(https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg) 50% 100% no-repeat;
 }
 
-.buttons{
+.buttons {
     display: flex;
 }
 
-.navButton, .home{
+.navButton,
+.home {
     font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
     color: white;
     padding: 0.5rem;
